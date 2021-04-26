@@ -24,7 +24,7 @@ docker-compose up -d
 |__ module                    <---- モデルや特徴量を作るモジュールが置かれたディレクトリ
 </pre>
 
-## Setup
+## setup
 <pre>
 #データのダウンロード
 cd input/
