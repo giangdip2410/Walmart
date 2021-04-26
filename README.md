@@ -5,7 +5,7 @@ Liaro課題提出用リポジトリ
 * Docker 20.10.5
 * docker-compose 1.25.0
 * NVIDIA Docker 2.5.0
-* 
+* kaggle api
 
 ### build enviroment 
 <pre>
