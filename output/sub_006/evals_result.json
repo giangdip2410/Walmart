@@ -1,0 +1,7 @@
+{
+    "evals_result": {
+        "oof_score": 5114.009004247912,
+        "n_data": 421570,
+        "n_features": 86
+    }
+}
